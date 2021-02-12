@@ -1,0 +1,5 @@
+Variable: Es el contenedor de un dato
+String: Es una variable de texto
+Funciones Return: es una instrucción para devolver un valor a la función
+Declaraciones If : es un condicional para realizar una u otra operación de acuerdo a la expresión
+Valores booleanos: Son variables que se utilizan para almacenar información del tipo verdadero o falso
